@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "The Gym",
+    "shortName": "The Gym",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#22200b",
+    "bgElevated": "#2e2d14",
+    "surface": "#38371b",
+    "surface2": "#494825",
+    "text": "#f2f4f3",
+    "muted": "#aeaf8b",
+    "accent": "#fce104",
+    "accent2": "#eecf2a",
+    "logoBg": "#000000"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
